@@ -14,7 +14,12 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   Hoặc:
 
   ```php
-  powershell iex (
+  powershell iex (irm https://massgrave.dev/ias)
   ```
 
   Sau đó **Save As** với tên **IDM.cmd**, rồi run file này bằng quyền **Run as Administrator** rồi làm theo hướng dẫn của cửa sổ hiện lên là xong, nếu một thời gian IDM bắt bản quyền thì bạn active lại bằng file **IDM.cmd** vừa tạo ra ở trên là xong.
+
+  ![image](https://github.com/user-attachments/assets/8b639e27-49a2-44a8-bbad-790d6f534b9d)
+
+  ![image](https://github.com/user-attachments/assets/0f36d069-d5e8-451a-a9f4-4d99baf12e82)
+
