@@ -25,9 +25,8 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   ![image](https://github.com/user-attachments/assets/36fc5e4e-3e1a-483b-a5ad-5cf58357cef8)
 
 - Làm theo hướng dẫn của cửa sổ hiện lên là xong!
-- Trường hợp bị bắt bản quyền thì active lại là Ok!
+- Trường hợp bị bắt bản quyền thì active lại là Ok! Nếu mở lên vẫn còn thì bạn bấm Hủy bỏ và mở IDM lại.
 
-
-
-
-
+- ![image](https://github.com/user-attachments/assets/488792df-22de-485c-a964-660c45df3867)
+- ![image](https://github.com/user-attachments/assets/f74dfc13-1df3-4e2e-ad3f-54dd546938cb)
+- Như hình trên là OK!
