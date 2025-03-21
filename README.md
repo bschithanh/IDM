@@ -26,6 +26,10 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   ```
 
   ```php
+  irm https://coporton.com/ias | iex
+  ```
+
+  ```php
   irm https://massgrave.dev/ias | iex
   ```
 
