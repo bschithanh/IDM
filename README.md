@@ -7,16 +7,10 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
 - Đầu tiên bạn download bản IDM dùng thử từ [trang chủ](https://www.internetdownloadmanager.com) hoặc [tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/idman642build27.exe) về cài đặt bình thường, cài xong tắt tất cả IDM đang chạy.
 - Kích hoạt thông qua **Windows PowerShell** hoặc **cmd**
-- Bạn chạy **cmd** bằng quyền **Run as Administrator** sau đó copy 1 trong 2 đoạn code sau đây dán vào và nhấn **Enter**
+- Bạn chạy **cmd** bằng quyền **Run as Administrator** sau đó copy đoạn code sau đây dán vào và nhấn **Enter**
   
   ```php
   powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/idm.ps1)
-  ```
-
-  Hoặc:
-
-  ```php
-  powershell iex (irm https://massgrave.dev/ias)
   ```
 
 - Hoặc bạn chạy **Windows PowerShell** bằng quyền **Run as Administrator** rồi dán một trong các câu lệnh sau vào:
@@ -28,11 +22,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   ```php
   irm https://coporton.com/ias | iex
   ```
-
-  ```php
-  irm https://massgrave.dev/ias | iex
-  ```
-
+  
 ## Ảnh Demo
 
   ![image](https://github.com/user-attachments/assets/f1210d0a-4b8c-4bb2-a37a-80241ba65ed0)
