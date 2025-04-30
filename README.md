@@ -22,6 +22,10 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   ```php
   irm https://coporton.com/ias | iex
   ```
+
+  Tham khảo trang: https://github.com/Coporton/IDM-Activation-Script
+
+  
   
 ## Ảnh Demo
 
