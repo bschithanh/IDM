@@ -23,7 +23,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   irm https://coporton.com/ias | iex
   ```
 
-  Tham khảo trang [github](https://github.com/Coporton/IDM-Activation-Script) hoặc [bấm vào đây để download](https://codeload.github.com/Coporton/IDM-Activation-Script/zip/refs/heads/main) file kích hoạt
+  Tham khảo trang [github](https://github.com/Coporton/IDM-Activation-Script) hoặc [bấm vào đây để download](https://codeload.github.com/Coporton/IDM-Activation-Script/zip/refs/heads/main) file kích hoạt (link dự phòng tải file kích hoạt [tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/IDM-Activation-Script-main.zip))
 
   
   
