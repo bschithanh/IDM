@@ -40,4 +40,10 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 - ![image](https://github.com/user-attachments/assets/f74dfc13-1df3-4e2e-ad3f-54dd546938cb)
 - Như hình trên là OK!
 
+Hoặc download file kích hoạt về, giải nén rồi run file **IASL.cmd** bằng quyền **Run as Administrator** ta được:
+
+  ![image](https://github.com/user-attachments/assets/6d417e34-43b7-4cc7-b0fd-b2ea4f042fee)
+
+Bấm lựa chọn 3 là ok!
+
 [Link source](https://docs.google.com/spreadsheets/d/e/2PACX-1vTId_2VGY1MeQdeH6OU6Oja27zMe91mHmYUl6aVWsyKlcFBuLwvr2M-9uaBRWDUqxPAi5xE-pqief4d/pubhtml#)
