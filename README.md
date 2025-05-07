@@ -42,7 +42,7 @@ Hoặc download file kích hoạt về, giải nén rồi run file **IASL.cmd** 
 
   ![3](https://github.com/user-attachments/assets/420722ff-69c5-43a6-a8cd-6928cbbe89db)
   
-Bấm lựa chọn 3 là ok!
+Bấm lựa chọn 2, sau đó nhập Họ và Tên vào là ok!
   
   ![4](https://github.com/user-attachments/assets/a1937bda-eb55-46e5-8c2b-b794e813a47f)
 
