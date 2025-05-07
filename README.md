@@ -23,10 +23,8 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   irm https://coporton.com/ias | iex
   ```
 
-  Tham khảo trang [github](https://github.com/Coporton/IDM-Activation-Script) hoặc [bấm vào đây để download](https://codeload.github.com/Coporton/IDM-Activation-Script/zip/refs/heads/main) file kích hoạt (link dự phòng tải file kích hoạt [tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/IDM-Activation-Script-main.zip))
+  Tham khảo trang [github](https://github.com/Coporton/IDM-Activation-Script) hoặc [bấm vào đây để download](https://raw.githubusercontent.com/bschithanh/nguon/main/IDM-Activation-Script-main.zip)  
 
-  
-  
 ## Ảnh Demo
 
   ![image](https://github.com/user-attachments/assets/f1210d0a-4b8c-4bb2-a37a-80241ba65ed0)
@@ -42,8 +40,10 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
 Hoặc download file kích hoạt về, giải nén rồi run file **IASL.cmd** bằng quyền **Run as Administrator** ta được:
 
-  ![image](https://github.com/user-attachments/assets/6d417e34-43b7-4cc7-b0fd-b2ea4f042fee)
-
+  ![3](https://github.com/user-attachments/assets/420722ff-69c5-43a6-a8cd-6928cbbe89db)
+  
 Bấm lựa chọn 3 là ok!
+  
+  ![4](https://github.com/user-attachments/assets/a1937bda-eb55-46e5-8c2b-b794e813a47f)
 
 [Link source](https://docs.google.com/spreadsheets/d/e/2PACX-1vTId_2VGY1MeQdeH6OU6Oja27zMe91mHmYUl6aVWsyKlcFBuLwvr2M-9uaBRWDUqxPAi5xE-pqief4d/pubhtml#)
