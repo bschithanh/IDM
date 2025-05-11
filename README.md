@@ -13,39 +13,16 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   powershell iex (irm https://coporton.com/ias)
   ```
 
-- Hoặc bạn chạy **Windows PowerShell** bằng quyền **Run as Administrator** rồi dán một trong các câu lệnh sau vào:
+  Hoặc:
 
   ```php
-  iex(irm is.gd/idm_reset)
-  ```
-
-  ```php
-  irm https://coporton.com/ias | iex
+  powershell iex (irm is.gd/idm_reset)
   ```
 
   Tham khảo trang [github](https://github.com/Coporton/IDM-Activation-Script) hoặc [bấm vào đây để download](https://raw.githubusercontent.com/bschithanh/nguon/main/IDM-Activation-Script-main.zip) hoặc [link dự phòng](https://raw.githubusercontent.com/Coporton/IDM-Activation-Script/main/IASL.cmd)
 
 ## Ảnh Demo
 
-  ![image](https://github.com/user-attachments/assets/f1210d0a-4b8c-4bb2-a37a-80241ba65ed0)
-
-  ![image](https://github.com/user-attachments/assets/36fc5e4e-3e1a-483b-a5ad-5cf58357cef8)
-
-- Làm theo hướng dẫn của cửa sổ hiện lên là xong!
-- Trường hợp bị bắt bản quyền thì active lại là Ok! Nếu mở lên vẫn còn thì bạn bấm Hủy bỏ và mở IDM lại.
-
-- ![image](https://github.com/user-attachments/assets/488792df-22de-485c-a964-660c45df3867)
-- ![image](https://github.com/user-attachments/assets/f74dfc13-1df3-4e2e-ad3f-54dd546938cb)
-- Như hình trên là OK!
-
-Hoặc download file kích hoạt về, giải nén rồi run file **IASL.cmd** bằng quyền **Run as Administrator** ta được:
-
-  ![3](https://github.com/user-attachments/assets/420722ff-69c5-43a6-a8cd-6928cbbe89db)
-  
-Bấm lựa chọn 2, sau đó nhập Họ và Tên vào là ok!
-
-  ![image](https://github.com/user-attachments/assets/bd43d54f-62d1-4737-827c-83b0d4688e5c)
-  
-  ![4](https://github.com/user-attachments/assets/a1937bda-eb55-46e5-8c2b-b794e813a47f)
+![image](https://github.com/user-attachments/assets/6e86192f-ffb5-4519-b1ec-ae61907cdf10)
 
 [Link source](https://docs.google.com/spreadsheets/d/e/2PACX-1vTId_2VGY1MeQdeH6OU6Oja27zMe91mHmYUl6aVWsyKlcFBuLwvr2M-9uaBRWDUqxPAi5xE-pqief4d/pubhtml#)
