@@ -16,13 +16,13 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   Hoặc:
 
   ```php
-  powershell iex (irm is.gd/idm_reset)
+  powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/IDMhay.ps1)
   ```
 
   Hoặc
 
   ```php
-  powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/IDMhay.ps1)
+  powershell iex (irm is.gd/idm_reset)
   ```
 
   Tham khảo trang [github](https://github.com/Coporton/IDM-Activation-Script) hoặc [bấm vào đây để download](https://raw.githubusercontent.com/bschithanh/nguon/main/IDM-Activation-Script-main.zip) hoặc [link dự phòng](https://raw.githubusercontent.com/Coporton/IDM-Activation-Script/main/IASL.cmd)
